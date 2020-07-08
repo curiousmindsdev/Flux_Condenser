@@ -1,7 +1,4 @@
 # Flux Condenser
-Cool PCB badge with animated LEDs.
-
-# What is it?
 
 A tiny (35mm x 25mm) PCB badge featuring 24 LEDs that animate to create the “fluxxing” effect. It’s 100% decorative, it doesn’t actually let you travel through time when worn around the neck.
 
