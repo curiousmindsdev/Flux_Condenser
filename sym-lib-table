@@ -1,0 +1,5 @@
+(sym_lib_table
+  (lib (name ATtiny44A-MU)(type Legacy)(uri ${KIPRJMOD}/Symbols/ATtiny44A-MU.lib)(options "")(descr ""))
+  (lib (name SW_SPDT)(type Legacy)(uri ${KIPRJMOD}/Symbols/SW_SPDT.lib)(options "")(descr ""))
+  (lib (name AVR-ISP)(type Legacy)(uri ${KIPRJMOD}/Symbols/AVR-ISP.lib)(options "")(descr ""))
+)
