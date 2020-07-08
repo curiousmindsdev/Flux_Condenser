@@ -7,3 +7,5 @@ It is contolled by a Microchip ATtiny44A microcontroller. Thankfully this board 
 ![Front](/Images/Front.jpg)
 ![Back](/Images/Back.jpg)
 ![Animation](/Images/fluxxing.gif)
+
+<a href="https://www.tindie.com/stores/curiousmindsdev/?ref=offsite_badges&utm_source=sellers_Hojadurdy&utm_medium=badges&utm_campaign=badge_large"><img src="https://d2ss6ovg47m0r5.cloudfront.net/badges/tindie-larges.png" alt="I sell on Tindie" width="200" height="104"></a>
