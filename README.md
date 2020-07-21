@@ -10,4 +10,4 @@ It is contolled by a Microchip ATtiny44A microcontroller. Thankfully this board 
 
 <a href="https://www.tindie.com/stores/curiousmindsdev/?ref=offsite_badges&utm_source=sellers_Hojadurdy&utm_medium=badges&utm_campaign=badge_large"><img src="https://d2ss6ovg47m0r5.cloudfront.net/badges/tindie-larges.png" alt="I sell on Tindie" width="200" height="104"></a>
 
-<script type='text/javascript' src='https://ko-fi.com/widgets/widget_2.js'></script><script type='text/javascript'>kofiwidget2.init('Support Me on Ko-fi', '#2c85ab', 'O4O512Z0W');kofiwidget2.draw();</script> 
+[![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/O4O512Z0W)
