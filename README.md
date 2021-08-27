@@ -1,12 +1,13 @@
-# Flux Condenser
+# Flux Condenser Rev.3
 
 A tiny (35mm x 25mm) PCB badge featuring 24 LEDs that animate to create the “fluxxing” effect. It’s 100% decorative, it doesn’t actually let you travel through time when worn around the neck.
 
 It is contolled by a Microchip ATtiny44A microcontroller. Thankfully this board has a much lower power requirement than the silkscreen indicates on the back, and skips along, sipping power from the single CR2032/LIR2032 coin cell battery (instead of plutonium or a lightning strike), slipped into the rear mounted coin cell holder.
 
-![Front](/Images/Front.jpg)
-![Back](/Images/Back.jpg)
-![Animation](/Images/fluxxing.gif)
+![Multi Beam](/Photos/FC_Rev.3_Front_mBeam.jpg)
+![Single Beam](/Photos/FC_Rev.3_Front_sBeam.jpg)
+![Front](/hotos/FC_Rev.3_Front.jpg)
+![Back](/hotos/FC_Rev.3_Back.jpg)
 
 <a href="https://www.tindie.com/stores/curiousmindsdev/?ref=offsite_badges&utm_source=sellers_Hojadurdy&utm_medium=badges&utm_campaign=badge_large"><img src="https://d2ss6ovg47m0r5.cloudfront.net/badges/tindie-larges.png" alt="I sell on Tindie" width="200" height="104"></a>
 
