@@ -7,7 +7,7 @@ It is contolled by a Microchip ATtiny44A microcontroller. Thankfully this board 
 ![Multi Beam](/Photo/FC_Rev.3_Front_mBeam.jpg)
 ![Single Beam](/Photo/FC_Rev.3_Front_sBeam.jpg)
 ![Front](/Photo/FC_Rev.3_Front.jpg)
-![Back](/hoto/FC_Rev.3_Back.jpg)
+![Back](/Photo/FC_Rev.3_Back.jpg)
 
 <a href="https://www.tindie.com/stores/curiousmindsdev/?ref=offsite_badges&utm_source=sellers_Hojadurdy&utm_medium=badges&utm_campaign=badge_large"><img src="https://d2ss6ovg47m0r5.cloudfront.net/badges/tindie-larges.png" alt="I sell on Tindie" width="200" height="104"></a>
 
