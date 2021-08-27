@@ -20,8 +20,8 @@ Thanks to Microchip’s latest ATtiny816 microcontroller now I can dim the LEDs 
 ### **How long will the battery last?**
 
 CR2032 (Non-Rechargeable) with average of 210mAh battery capacity.
-•	100% LED Brightness :   91 Hours
-•	25% LED Brightness	 :   190 Hours
+⋅⋅* 100% LED Brightness :   91 Hours
+⋅⋅* 25% LED Brightness  :   190 Hours
 
 LIR2032 (Rechargeable) with average of 40mAh battery capacity.
 •	100% LED Brightness :   17 Hours
