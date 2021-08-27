@@ -41,6 +41,7 @@ Each LED number from photo shown above represents different setting.
 
 To choose your preference just hold the start button. All the LEDs should turn off and after a second starting from LED1 each individual LED gets lit. Hold the start until the LED that represents your preferred setting is lit, then release the button. Now your new configuration is set. To see it in more detail check out the video below.
 
+https://www.youtube.com/watch?v=2X2gqoI-mSA
 
 ![Multi Beam](/Photo/FC_Rev.3_Front_mBeam.jpg)
 ![Single Beam](/Photo/FC_Rev.3_Front_sBeam.jpg)
