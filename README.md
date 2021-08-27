@@ -10,9 +10,8 @@ It is controlled by a Microchip ATtiny816 microcontroller. Thankfully this board
 
 Thanks to Microchip’s latest ATtiny816 microcontroller now I can dim the LEDs with 8 individual PWM pins. Users can now change the animation type, animation speed, and LED brightness. There are 2 animation types (multi beam and single beam), 2 animation speeds (slow and fast), 4 LED brightness levels (100%, 75%, 50% and 25%).  Power consumption is drastically lowered. At full brightness it draws 2.3mA and at 25% brightness it draws 1.1mA of current from the battery. Also front of the Flux Condenser is now much cleaner. Most of the via drill holes are gone.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0HYvHHwKRpI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/d-4WE4u1WFY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+![Multi Beam](/Photo/SingleBeamAnimation.mp4)
+![Single Beam](/Photo/MultiBeamAnimation.mp4)
 
 ### **How long will the battery last?**
 
