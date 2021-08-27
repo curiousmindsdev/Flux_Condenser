@@ -1,0 +1,9 @@
+(sym_lib_table
+  (lib (name "HDLib_Connector")(type "KiCad")(uri "${KIPRJMOD}/Library/HDLib_Connector.kicad_sym")(options "")(descr ""))
+  (lib (name "HDLib_Device")(type "KiCad")(uri "${KIPRJMOD}/Library/HDLib_Device.kicad_sym")(options "")(descr ""))
+  (lib (name "HDLib_LED")(type "KiCad")(uri "${KIPRJMOD}/Library/HDLib_LED.kicad_sym")(options "")(descr ""))
+  (lib (name "HDLib_Microcontroller")(type "KiCad")(uri "${KIPRJMOD}/Library/HDLib_Microcontroller.kicad_sym")(options "")(descr ""))
+  (lib (name "HDLib_Passives")(type "KiCad")(uri "${KIPRJMOD}/Library/HDLib_Passives.kicad_sym")(options "")(descr ""))
+  (lib (name "HDLib_PowerSymbol")(type "KiCad")(uri "${KIPRJMOD}/Library/HDLib_PowerSymbol.kicad_sym")(options "")(descr ""))
+  (lib (name "HDLib_Switch")(type "KiCad")(uri "${KIPRJMOD}/Library/HDLib_Switch.kicad_sym")(options "")(descr ""))
+)

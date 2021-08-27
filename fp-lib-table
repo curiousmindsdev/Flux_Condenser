@@ -1,0 +1,10 @@
+(fp_lib_table
+  (lib (name "HDMod_Battery_Holder_SMD")(type "KiCad")(uri "${KIPRJMOD}/Footprint/HDMod_Battery_Holder_SMD.pretty")(options "")(descr ""))
+  (lib (name "HDMod_Capacitor_SMD")(type "KiCad")(uri "${KIPRJMOD}/Footprint/HDMod_Capacitor_SMD.pretty")(options "")(descr ""))
+  (lib (name "HDMod_DFN_QFN")(type "KiCad")(uri "${KIPRJMOD}/Footprint/HDMod_DFN_QFN.pretty")(options "")(descr ""))
+  (lib (name "HDMod_LED_SMD")(type "KiCad")(uri "${KIPRJMOD}/Footprint/HDMod_LED_SMD.pretty")(options "")(descr ""))
+  (lib (name "HDMod_MountingHole")(type "KiCad")(uri "${KIPRJMOD}/Footprint/HDMod_MountingHole.pretty")(options "")(descr ""))
+  (lib (name "HDMod_Resistor_SMD")(type "KiCad")(uri "${KIPRJMOD}/Footprint/HDMod_Resistor_SMD.pretty")(options "")(descr ""))
+  (lib (name "HDMod_Switch_SMD")(type "KiCad")(uri "${KIPRJMOD}/Footprint/HDMod_Switch_SMD.pretty")(options "")(descr ""))
+  (lib (name "HDMod_Testing_and_Programming_PAD")(type "KiCad")(uri "${KIPRJMOD}/Footprint/HDMod_Testing_and_Programming_PAD.pretty")(options "")(descr ""))
+)
