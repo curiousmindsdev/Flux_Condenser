@@ -1,6 +1,6 @@
 # Flux Condenser Rev.3
 
-### **What is it?**
+### What is it?
 
 A tiny (35mm x 25mm) PCB badge featuring 24 LEDs that animate to create the “fluxxing” effect. It’s 100% decorative, it doesn’t actually let you travel through time when worn around the neck.
 
@@ -10,14 +10,11 @@ https://user-images.githubusercontent.com/56890227/131141057-b0eb6197-e710-4d84-
 
 https://user-images.githubusercontent.com/56890227/131141300-c1670cdc-f619-4a5a-8890-5401563677f6.mov
 
-### **What is changed from Rev.2 to Rev.3?**
+### What is changed from Rev.2 to Rev.3?
 
 Thanks to Microchip’s latest ATtiny816 microcontroller now I can dim the LEDs with 8 individual PWM pins. Users can now change the animation type, animation speed, and LED brightness. There are 2 animation types (multi beam and single beam), 2 animation speeds (slow and fast), 4 LED brightness levels (100%, 75%, 50% and 25%).  Power consumption is drastically lowered. At full brightness it draws 2.3mA and at 25% brightness it draws 1.1mA of current from the battery. Also front of the Flux Condenser is now much cleaner. Most of the via drill holes are gone.
 
-
-
-
-### **How long will the battery last?**
+### How long will the battery last?
 
 CR2032 (Non-Rechargeable) with average of 210mAh battery capacity.
 -	100% LED Brightness :   91 Hours
@@ -27,10 +24,23 @@ LIR2032 (Rechargeable) with average of 40mAh battery capacity.
 -	100% LED Brightness :   17 Hours
 -	25% LED Brightness	 :   36 Hours
 
-### **Configuration **
+### Configuration 
 
 To set your desired animation, speed and LED brightness, you have to start flux condenser with configuration interface. In order to do that, you have to turn off your flux condenser. While holding the “Start” button on the back turn the flux condenser on. Now you should see configuration interface. Some of the LEDs should be on and some off according to your configuration. LEDs on each row of all columns, starting from outer to inner are paralleled.  
-![LED Numbers](/Photo/FC_Rev.jpg)
+![LED Numbers](/Photo/FC_Rev.png)
+Each LED number from photo shown above represents different setting.
+
+- LED1 : Single Beam Animation
+- LED2 : Multi Beam Animation
+- LED3 : Slow Animation Speed
+- LED4 : Fast Animation Speed
+- LED5 : 100% LED Brightness
+- LED6 : 75% LED Brightness
+- LED7 : 50% LED Brightness
+- LED8 : 25% LED Brightness
+
+To choose your preference just hold the start button. All the LEDs should turn off and after a second starting from LED1 each individual LED gets lit. Hold the start until the LED that represents your preferred setting is lit, then release the button. Now your new configuration is set. To see it in more detail check out the video below.
+
 
 ![Multi Beam](/Photo/FC_Rev.3_Front_mBeam.jpg)
 ![Single Beam](/Photo/FC_Rev.3_Front_sBeam.jpg)
