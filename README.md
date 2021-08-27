@@ -8,6 +8,7 @@ It is controlled by a Microchip ATtiny816 microcontroller. Thankfully this board
 
 https://user-images.githubusercontent.com/56890227/131141057-b0eb6197-e710-4d84-89a1-9ab057af56d6.mov
 
+https://user-images.githubusercontent.com/56890227/131141300-c1670cdc-f619-4a5a-8890-5401563677f6.mov
 
 ### **What is changed from Rev.2 to Rev.3?**
 
