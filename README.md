@@ -6,13 +6,14 @@ A tiny (35mm x 25mm) PCB badge featuring 24 LEDs that animate to create the “f
 
 It is controlled by a Microchip ATtiny816 microcontroller. Thankfully this board has a much lower power requirement than the silkscreen indicates on the back, and skips along, sipping power from the single CR2032/LIR2032 coin cell battery (instead of plutonium or a lightning strike), slipped into the rear mounted coin cell holder.
 
+https://user-images.githubusercontent.com/56890227/131141057-b0eb6197-e710-4d84-89a1-9ab057af56d6.mov
+
+
 ### **What is changed from Rev.2 to Rev.3?**
 
 Thanks to Microchip’s latest ATtiny816 microcontroller now I can dim the LEDs with 8 individual PWM pins. Users can now change the animation type, animation speed, and LED brightness. There are 2 animation types (multi beam and single beam), 2 animation speeds (slow and fast), 4 LED brightness levels (100%, 75%, 50% and 25%).  Power consumption is drastically lowered. At full brightness it draws 2.3mA and at 25% brightness it draws 1.1mA of current from the battery. Also front of the Flux Condenser is now much cleaner. Most of the via drill holes are gone.
 
-https://github.com/curiousmindsdev/Flux_Condenser/blob/master/Photo/SingleBeamAnimation.mp4
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=d-4WE4u1WFY" target="_blank"><img src="http://img.youtube.com/vi/d-4WE4u1WFY/0.jpg" 
-alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
+
 
 
 ### **How long will the battery last?**
