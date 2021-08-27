@@ -20,13 +20,17 @@ Thanks to Microchip’s latest ATtiny816 microcontroller now I can dim the LEDs 
 ### **How long will the battery last?**
 
 CR2032 (Non-Rechargeable) with average of 210mAh battery capacity.
-⋅⋅* 100% LED Brightness :   91 Hours
-⋅⋅* 25% LED Brightness  :   190 Hours
+-	100% LED Brightness :   91 Hours
+-	25% LED Brightness	 :   190 Hours
 
 LIR2032 (Rechargeable) with average of 40mAh battery capacity.
-•	100% LED Brightness :   17 Hours
-•	25% LED Brightness	 :   36 Hours
+-	100% LED Brightness :   17 Hours
+-	25% LED Brightness	 :   36 Hours
 
+### **Configuration **
+
+To set your desired animation, speed and LED brightness, you have to start flux condenser with configuration interface. In order to do that, you have to turn off your flux condenser. While holding the “Start” button on the back turn the flux condenser on. Now you should see configuration interface. Some of the LEDs should be on and some off according to your configuration. LEDs on each row of all columns, starting from outer to inner are paralleled.  
+![LED Numbers](/Photo/FC_Rev.jpg)
 
 ![Multi Beam](/Photo/FC_Rev.3_Front_mBeam.jpg)
 ![Single Beam](/Photo/FC_Rev.3_Front_sBeam.jpg)
